@@ -1,4 +1,4 @@
-!Design and Development)(https://github.com/Tanushiii/Tanushiii/blob/main/Graphic%20Design.png)
+
 ### Hi there 👋, my name is TJ
 #### Web Design and Development
 
