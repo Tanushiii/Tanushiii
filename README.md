@@ -1,10 +1,12 @@
+!Design and Development)(https://github.com/Tanushiii/Tanushiii/blob/main/Graphic%20Design.png)
 ### Hi there 👋, my name is TJ
-
 #### Web Design and Development
+
 I'm a creative Full Stack Developer based in Switzerland. My passion ist to develop digital experiences that leave positive impact on people, environment and the society. I'm an interdisciplinary problem solver with a heart for development, design and innovation.
 
 
-Skills:  HTML / CSS / Bootstrap / JavaScript / Vue.js / NodeJs / React / Angular / jQuery / PHP / MySQL 
+## Skills  
+HTML / CSS / Bootstrap / JavaScript / Vue.js / NodeJs / React / Angular / jQuery / PHP / MySQL 
 
 
 
