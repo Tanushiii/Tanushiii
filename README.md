@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/Tanushiii/Tanushiii/blob/main/devHub.png)
+![I am GitHub Readme Generator's creator](https://github.com/Tanushiii/Tanushiii/blob/main/banner_GitHub.png)
 
 ## Welcome to my GitHub
 
